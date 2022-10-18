@@ -1,0 +1,23 @@
+body{
+    background-color: MediumSeaGreen;
+  }
+  .container{
+    max-width: 400px;
+  }
+  input[type=text],
+  input[type=text]:focus{
+    color: black;
+    border: none;
+    background-color:MediumSeaGreen;
+   
+  }
+  .todos li{
+    background-color: MediumSeaGreen;
+  }
+  .delete{
+    cursor: pointer;
+  }
+  .filtered{
+    display:none !important
+
+  }
